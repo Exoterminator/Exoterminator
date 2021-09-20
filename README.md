@@ -1,4 +1,4 @@
-if (food = edible0
+if (food = edible)
   print("Eat")
 else:
   print("Starve")
